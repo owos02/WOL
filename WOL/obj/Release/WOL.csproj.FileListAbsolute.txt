@@ -8,3 +8,13 @@ C:\Users\olive\source\repos\WOL\WOL\obj\Release\WOL.csproj.CoreCompileInputs.cac
 C:\Users\olive\source\repos\WOL\WOL\obj\Release\WOL.exe
 C:\Users\olive\source\repos\WOL\WOL\obj\Release\WOL.pdb
 C:\Users\olive\source\repos\WOL\WOL\obj\Release\WOL.AddUserLink.resources
+C:\Users\olive\Source\Repos\owos02\WOL\WOL\bin\Release\WOL.exe.config
+C:\Users\olive\Source\Repos\owos02\WOL\WOL\bin\Release\WOL.exe
+C:\Users\olive\Source\Repos\owos02\WOL\WOL\bin\Release\WOL.pdb
+C:\Users\olive\Source\Repos\owos02\WOL\WOL\obj\Release\WOL.Form1.resources
+C:\Users\olive\Source\Repos\owos02\WOL\WOL\obj\Release\WOL.AddUserLink.resources
+C:\Users\olive\Source\Repos\owos02\WOL\WOL\obj\Release\WOL.Properties.Resources.resources
+C:\Users\olive\Source\Repos\owos02\WOL\WOL\obj\Release\WOL.csproj.GenerateResource.cache
+C:\Users\olive\Source\Repos\owos02\WOL\WOL\obj\Release\WOL.csproj.CoreCompileInputs.cache
+C:\Users\olive\Source\Repos\owos02\WOL\WOL\obj\Release\WOL.exe
+C:\Users\olive\Source\Repos\owos02\WOL\WOL\obj\Release\WOL.pdb

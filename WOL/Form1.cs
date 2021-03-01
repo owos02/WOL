@@ -88,6 +88,7 @@ namespace WOL
             string username = filecontent.Split('|')[0];
             string userlink = filecontent.Split('|')[1];
             UserName.Text = username;
+
         }
     }
 }
