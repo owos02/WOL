@@ -7,7 +7,7 @@ Might have some errors and low level coding.
 
 INFO: It can take a long long time to load the Data
 
-Usage is simple. You run the Code. It asks you to input a UserLink in the first Box | Looks like this: 'https://wol.gg/stats/euw/{USERNAME}/'
+Usage is simple. You run the Code. It asks you to input a UserLink in the first Box | Looks like this: 'https://wol.gg/stats/{YOUR_REGION}/{USERNAME}/'
 Then a UserName that will be displayed in the Programm (Nothing more)
 
 And then everything should be automated.
